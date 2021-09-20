@@ -1,1 +1,8 @@
 This file contains ALM_FaultManagement_HP code
+Adding some more code
+Hello FM_HP
+var fmhp1 = 333, fmhp2 = 444;
+if(fmhp1 + fmhp2 = 777){
+print("Success!")
+}
+End, say Bye!
