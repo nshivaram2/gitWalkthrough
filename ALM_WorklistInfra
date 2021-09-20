@@ -6,4 +6,7 @@ Some variables for usage
 var almA1  = 10, almB1 = 20;
 var almC1 = almA1 + almB1;
 print almC1;
-Say bye!
+//SOC Project development change 1
+//Say bye!
+Adding some more code for development change 1
+//EOC Project development change 1
