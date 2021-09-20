@@ -1,1 +1,9 @@
 This file contains ALM_Worlist Infra code
+Change #1 
+Hello World
+Here are few lines of code
+Some variables for usage
+var almA1  = 10, almB1 = 20;
+var almC1 = almA1 + almB1;
+print almC1;
+Say bye!
