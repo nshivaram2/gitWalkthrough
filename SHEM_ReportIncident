@@ -1,1 +1,5 @@
 This file contains SHEM_ReportIncident code
+Hello SHEM
+print ("Report Incident")
+print ("Record Interaction")
+Say bye!
